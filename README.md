@@ -1,15 +1,12 @@
 # TicTacToe
   ## A simple TicTacToe game built in Unity using C#.
 
-- [AJ4 Projects](#aj4-projects)
-  - [Description](#description)
-  - [Project Structure](#project-structure)
-  - [Menu](#menu)
-  - [Playground](#playground)
+- [Description](#description)
+- [Project Structure](#project-structure)
+- [Menu](#menu)
+- [Playground](#playground)
 - [Future](#future)
 
-
-# AJ4 Projects
   ## Description
   This is a basic implementation of the classic TicTacToe game, created with Unity and C#. The project includes a main menu, a game scene, and a simple game logic system.
 
