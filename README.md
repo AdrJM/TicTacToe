@@ -3,6 +3,8 @@
 
 - [Description](#description)
 - [Project Structure](#project-structure)
+  - [Scenes](#scenes)
+  - [Scripts](#scripts)
 - [Menu](#menu)
 - [Playground](#playground)
 - [Future](#future)
